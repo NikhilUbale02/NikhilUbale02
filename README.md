@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Nikhil Ubale 👋
 
-<!--
-**NikhilUbale02/NikhilUbale02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer** | Infrastructure as Code | CI/CD | Automation | Cloud-Native Enthusiast
+📍 Pune, Maharashtra, India
+📧 [ubalenikhil242@gmail.com]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💼 About Me
+
+* 🔧 I specialize in building and automating scalable infrastructure.
+* 🌱 Currently exploring advanced DevOps practices and contributing to open source.
+* ⚙️ Tools I work with: Terraform, Docker, Kubernetes, GitHub, Ansible, AWS, Grafana, GCP, AZURE, Jenkins.
+* 🩰 Always improving in automation, observability, and delivery pipelines.
+
+---
