@@ -2,7 +2,7 @@
 🌌 Simplifying Cloud & DevOps | ☁️ AWS | 🔷 Azure | 🌐 GCP | ⚙️ Terraform | 📦 Kubernetes | 🚀 CI/CD | 📝 Notes & Insights
 🚀 **DevOps Engineer** | Infrastructure as Code | CI/CD | Automation | Cloud-Native Enthusiast
 📍 Pune, Maharashtra, India
-📧 [ubalenikhil242@gmail.com]
+📧 [nikhilubale224@gmail.com]
 
 ---
 
